@@ -16,6 +16,7 @@
         <module>ProtoType</module>
         <module>Singleton</module>
         <module>Adapter</module>
+        <module>Bridge</module>
     </modules>
 
 
