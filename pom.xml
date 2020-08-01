@@ -17,6 +17,11 @@
         <module>Singleton</module>
         <module>Adapter</module>
         <module>Bridge</module>
+        <module>Decorator</module>
+        <module>StaticProxy</module>
+        <module>DynamicProxy</module>
+        <module>Facade</module>
+        <module>Flyweight</module>
     </modules>
 
 
