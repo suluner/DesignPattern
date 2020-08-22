@@ -26,6 +26,10 @@
         <module>Observer</module>
         <module>Strategy</module>
         <module>Command</module>
+        <module>Iterator</module>
+        <module>TemplateMethod</module>
+        <module>State</module>
+        <module>Interpreter</module>
     </modules>
 
 
