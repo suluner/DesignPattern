@@ -30,6 +30,7 @@
         <module>TemplateMethod</module>
         <module>State</module>
         <module>Interpreter</module>
+        <module>ChainofResponsibility</module>
     </modules>
 
 

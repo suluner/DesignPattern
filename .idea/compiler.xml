@@ -6,32 +6,30 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Flyweight" />
+        <module name="ProtoType" />
         <module name="Builder" />
         <module name="Strategy" />
         <module name="AbstractFactory" />
         <module name="Singleton" />
         <module name="Command" />
         <module name="Adapter" />
-        <module name="Decorator" />
-        <module name="ProtoType" />
-        <module name="Observer" />
-        <module name="StaticProxy" />
-        <module name="DynamicProxy" />
-        <module name="Interpreter" />
-        <module name="Composite" />
-        <module name="Bridge" />
-        <module name="State" />
-        <module name="SimpleFactory" />
-        <module name="TemplateMethod" />
-        <module name="Facade" />
         <module name="FactoryMethod" />
+        <module name="Facade" />
+        <module name="SimpleFactory" />
+        <module name="Interpreter" />
+        <module name="Observer" />
+        <module name="Flyweight" />
+        <module name="DynamicProxy" />
+        <module name="StaticProxy" />
+        <module name="Composite" />
+        <module name="State" />
+        <module name="TemplateMethod" />
+        <module name="Decorator" />
+        <module name="ChainofResponsibility" />
+        <module name="Bridge" />
         <module name="Iterator" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
-      <module name="Iterator" target="1.5" />
-      <module name="TemplateMethod" target="1.5" />
-    </bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
