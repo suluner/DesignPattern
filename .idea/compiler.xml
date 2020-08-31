@@ -6,27 +6,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ProtoType" />
         <module name="Builder" />
         <module name="Strategy" />
         <module name="AbstractFactory" />
         <module name="Singleton" />
-        <module name="Command" />
+        <module name="ProtoType" />
+        <module name="Decorator" />
         <module name="Adapter" />
         <module name="FactoryMethod" />
-        <module name="Facade" />
         <module name="SimpleFactory" />
-        <module name="Interpreter" />
+        <module name="Mediator" />
         <module name="Observer" />
         <module name="Flyweight" />
-        <module name="DynamicProxy" />
         <module name="StaticProxy" />
-        <module name="Composite" />
         <module name="State" />
-        <module name="TemplateMethod" />
-        <module name="Decorator" />
-        <module name="ChainofResponsibility" />
+        <module name="Composite" />
         <module name="Bridge" />
+        <module name="Interpreter" />
+        <module name="TemplateMethod" />
+        <module name="Facade" />
+        <module name="ChainofResponsibility" />
+        <module name="Command" />
+        <module name="DynamicProxy" />
         <module name="Iterator" />
       </profile>
     </annotationProcessing>

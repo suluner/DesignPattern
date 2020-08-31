@@ -31,6 +31,7 @@
         <module>State</module>
         <module>Interpreter</module>
         <module>ChainofResponsibility</module>
+        <module>Mediator</module>
     </modules>
 
 
