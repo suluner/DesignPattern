@@ -18,6 +18,7 @@ public class ConcreteMediator extends Mediator{
         }
     }
 
+    @Override
     public void relay(Colleague colleague) {
         colleagues.forEach(c -> {
             if (!c.equals(colleague)) {

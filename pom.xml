@@ -32,6 +32,8 @@
         <module>Interpreter</module>
         <module>ChainofResponsibility</module>
         <module>Mediator</module>
+        <module>Memento</module>
+        <module>Vistor</module>
     </modules>
 
 
